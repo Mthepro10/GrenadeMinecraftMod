@@ -1,12 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "///",
-    "/ /",
-    "///"
+    "/L/",
+    "C C",
+    "/L/"
   ],
   "key": {
-    "/": "minecraft:stick"
+    "/": "minecraft:stick",
+    "L": "minecraft:lightning_rod",
+    "C": "minecraft:creeper_head"
   },
   "result": {
     "id": "fightingms:whistle",
