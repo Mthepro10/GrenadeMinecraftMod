@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T#",
+    "TGT",
+    "#T#"
+  ],
+  "key": {
+    "#": "minecraft:flint",
+    "T": "minecraft:torch",
+    "G": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "fightingms:grenade",
+    "count": 2
+  }
+}
