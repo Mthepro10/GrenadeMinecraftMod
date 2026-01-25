@@ -38,15 +38,15 @@ public class WhistleItem extends Item {
         if (level instanceof ServerLevel serverLevel) {
             Creeper creeper = new Creeper(EntityType.CREEPER, serverLevel);
 
-            creeper.setPos(
-                    player.getX(),
-                    player.getY(),
-                    player.getZ()
-            );
-
             LightningBolt lightningBolt = new LightningBolt(EntityType.LIGHTNING_BOLT, serverLevel);
 
             creeper.thunderHit(serverLevel, lightningBolt);
+
+            creeper.setPos(
+                    player.getX(),
+                    player.getY(),
+                    player.getZ()+5
+            );
 
             serverLevel.addFreshEntity(creeper);
         }
