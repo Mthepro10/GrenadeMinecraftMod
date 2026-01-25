@@ -40,7 +40,7 @@ public class WhistleItem extends Item {
 
             creeper.setPos(
                     player.getX(),
-                    player.getY() + 20,
+                    player.getY(),
                     player.getZ()
             );
 
