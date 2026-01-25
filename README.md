@@ -41,3 +41,4 @@ Balanced to feel native to survival Minecraft.
 
 MIT License  
 Available on Modrinth: https://modrinth.com/project/explosion-king
+Also the crafting information is on modrinth.
