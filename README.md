@@ -33,6 +33,7 @@ Balanced to feel native to survival Minecraft.
 
 # Running the mod
 Instructions for the official minecraft launcher:
+
 0. Install Fabric Loader for the Minecraft version listed on the Explosion King Modrinth page (1.21.11).
 1. Download the mod from Modrinth (link in license section)
 2. Also download Fabric API from this link: https://modrinth.com/mod/fabric-api
