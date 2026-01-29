@@ -31,7 +31,7 @@ Summons a fully charged creeper on use. It is hostile, uncontrolled, and behaves
 
 Balanced to feel native to survival Minecraft.
 
-# Running the mod
+## Running the mod
 Instructions for the official minecraft launcher:
 
 0. Install Fabric Loader for the Minecraft version listed on the Explosion King Modrinth page (1.21.11).
